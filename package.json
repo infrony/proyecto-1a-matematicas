@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "Proyecto de mat sencillo para aprender nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infrony/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematica",
+    "suma",
+    "resta",
+    "division",
+    "multi"
+  ],
+  "author": "Infrony <infrony@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infrony/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/infrony/proyecto-1a-matematicas#readme"
+}
